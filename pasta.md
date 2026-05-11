@@ -9,7 +9,7 @@
 - 2 egg yolks
 - 20 ml water (optional)
 
-##Tomato and basil sauce
+# Tomato and basil sauce
 
 - 50g butter
 - 100 g carrots
@@ -26,11 +26,11 @@
 - 10 g basil
 - 1 bouquet garni
 
-### Garniture
+# Garniture
 
 - 10 g basil leaves
 
-#### Seasoning
+# Seasoning
 - fine salt
 - white pepper
 - caster sugar
